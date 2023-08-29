@@ -32,10 +32,11 @@ This project is a web-based Blackjack game where you can play against the dealer
     CSS
     JavaScript
 
- ![BlackJack](blackjack.jpg)
+ 
 
 **Contributing**
 
 Contributions are welcome! If you find a bug or want to add new features, feel free to open an issue or submit a pull request. Please make sure to follow the code of conduct.
 
-
+**Demo**
+![BlackJack Game](blackjack.png)
