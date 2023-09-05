@@ -134,7 +134,7 @@ describe('stay', () => {
         yourAceCount = 0;
         canHit = false;
 
-        // Call the stay function
+        
         stay();
 
         // Assert the expected changes in yourSum, message, and canHit
