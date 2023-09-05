@@ -74,6 +74,7 @@ These unit tests provide comprehensive coverage and help maintain the game's int
 Contributions are welcome! If you find a bug or want to add new features, feel free to open an issue or submit a pull request. Please make sure to follow the code of conduct.
 
 **Demo** 
+
 ![BlackJack](screenshot.png)
 
 
